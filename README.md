@@ -1,5 +1,8 @@
 # Rutificador Masivo
+Este es un programa básico para la consulta de nombres por medio de rut de forma masiva. El resultado es un archivo .csv
 
+
+## Funcionamiento
 Las siguientes variables deben ser modificadas para un correcto funcionamiento
 
 ### Dirección física donde irá el archivo csv
